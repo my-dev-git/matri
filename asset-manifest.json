@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/matrimonial_v2/static/js/main.bd5bf232.chunk.js",
+    "main.js.map": "/matrimonial_v2/static/js/main.bd5bf232.chunk.js.map",
+    "runtime~main.js": "/matrimonial_v2/static/js/runtime~main.9dc68cc6.js",
+    "runtime~main.js.map": "/matrimonial_v2/static/js/runtime~main.9dc68cc6.js.map",
+    "static/js/2.f64e2b38.chunk.js": "/matrimonial_v2/static/js/2.f64e2b38.chunk.js",
+    "static/js/2.f64e2b38.chunk.js.map": "/matrimonial_v2/static/js/2.f64e2b38.chunk.js.map",
+    "index.html": "/matrimonial_v2/index.html",
+    "precache-manifest.5a93f2f29dae7ab7389ccd0067c04932.js": "/matrimonial_v2/precache-manifest.5a93f2f29dae7ab7389ccd0067c04932.js",
+    "service-worker.js": "/matrimonial_v2/service-worker.js"
+  }
+}
